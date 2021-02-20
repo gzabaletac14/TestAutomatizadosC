@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fcIyBl89342HJ90xMqwysNOYtdb7IFIuqNdDbRQZ4ns16mZ1yT1UpqIz6Il3r9XdyG47QaR+rPXHe1ItmBtFg==",
+  "dgSpecHash": "lRAU0JqqU2O2N9beFwHdJZgmzgRi0QDzIy8oKE3JqWcSkT4s76qeOm1vunvObRI8le8i8jeKbIYjBZ3R7J10Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\Stringie.csproj",
+  "projectFilePath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\Stringie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\German\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\German\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

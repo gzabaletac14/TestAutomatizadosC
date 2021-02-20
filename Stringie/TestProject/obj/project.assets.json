@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\German\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\Stringie.csproj": {
-              "projectPath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\Stringie.csproj"
+            "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\Stringie.csproj": {
+              "projectPath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\Stringie.csproj"
             }
           }
         }
