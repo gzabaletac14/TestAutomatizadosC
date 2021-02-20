@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\Stringie.csproj",
+      "projectUniqueName": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\Stringie.csproj",
       "projectName": "Stringie",
-      "projectPath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\Stringie.csproj",
+      "projectPath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\Stringie.csproj",
       "packagesPath": "C:\\Users\\German\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German\\Downloads\\Testing101-master\\Stringie\\Stringie\\obj\\",
+      "outputPath": "C:\\Users\\German\\Source\\Repos\\TestAutomatizadosC\\Stringie\\Stringie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\German\\AppData\\Roaming\\NuGet\\NuGet.Config",
